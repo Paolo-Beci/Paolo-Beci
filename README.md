@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **Paolo-Beci/Paolo-Beci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I'm currently studying **Computer Engineering**, specifically the course *Computer Networks and Cloud Computing* at *Politecnico di Torino*.
+- 📫 More about me: [LinkedIn](http://linkedin.com/in/paolo-beci-919a28199)
+- 💬 Write me on: [paolo.beci@gmail.com](paolo.beci@gmail.com)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolo-Beci&show_icons=true&theme=vue-dark">
+</p>
