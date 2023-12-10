@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 More about me: [LinkedIn](http://linkedin.com/in/paolo-beci-919a28199)
 - 💬 Write me on: [paolo.beci@gmail.com](paolo.beci@gmail.com)
 
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolo-Beci&show_icons=true&theme=github_dark">
 </p>
+-->
