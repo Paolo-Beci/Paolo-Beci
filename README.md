@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently studying **Computer Engineering**, specifically the course *Computer Networks and Cloud Computing* at *Politecnico di Torino*.
-- 🎵 Co-founder at [BeatBound](https://beatbound.it)
+- ☁️ Freelance at [Elemento Cloud](https://www.elemento.cloud)
+- 🎵 Created [BeatBound](https://beatbound.it)
 - 🏎️ Team member at [Squadracorsepolito](https://squadracorsepolito.com)
 - 📫 More about me: [LinkedIn](http://linkedin.com/in/paolo-beci-919a28199)
 - 💬 Write me on: [paolo.beci@gmail.com](paolo.beci@gmail.com)
