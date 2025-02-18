@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently studying **Computer Engineering**, specifically the course *Computer Networks and Cloud Computing* at *Politecnico di Torino*.
-- ☁️ Computer Engineer at [Elemento Cloud](https://www.elemento.cloud)
+- ☁️ Cloud Engineer at [Elemento Cloud](https://www.elemento.cloud)
 - 🏛️ Co-Created [Teseo](https://www.teseo.app)
-- 🏎️ Team member at [Squadracorsepolito](https://squadracorsepolito.com)
+- 🏎️ Ex Team member at [Squadracorsepolito](https://squadracorsepolito.com)
 - 📫 More about me: [LinkedIn](http://linkedin.com/in/paolo-beci-919a28199)
 - 💬 Write me on: [paolo.beci@gmail.com](paolo.beci@gmail.com)
 
