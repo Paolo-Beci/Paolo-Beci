@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently studying **Computer Engineering**, specifically the course *Computer Networks and Cloud Computing* at *Politecnico di Torino*.
 - ☁️ Cloud Engineer at [Elemento Cloud](https://www.elemento.cloud)
 - 🏛️ Co-Created [Teseo](https://www.teseo.app)
 - 🏎️ Ex Team member at [Squadracorsepolito](https://squadracorsepolito.com)
 - 📫 More about me: [LinkedIn](http://linkedin.com/in/paolo-beci-919a28199)
 - 💬 Write me on: [paolo.beci@gmail.com](paolo.beci@gmail.com)
+
+
+### Personal projects
+- [Strike manager](https://strike-manager-ruddy.vercel.app) - Directly see any active strike in Italy directly on your calendar
 
 <!--
 <p align="center">
