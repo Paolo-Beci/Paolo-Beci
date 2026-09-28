@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Something about me:
+
 - ☁️ Cloud Engineer at [Elemento Cloud](https://www.elemento.cloud)
 - 🏛️ Co-Created [Teseo](https://www.teseo.app)
 - 🏎️ Ex Team member at [Squadracorsepolito](https://squadracorsepolito.com)
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Write me on: [paolo.beci@gmail.com](paolo.beci@gmail.com)
 
 
-### Personal projects
+#### Personal projects
 - [Strike manager](https://strike-manager-ruddy.vercel.app) - Directly see any active strike in Italy directly on your calendar
 
 <!--
