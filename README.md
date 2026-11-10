@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Something about me:
 
-- ☁️ Cloud Engineer at [Elemento Cloud](https://www.elemento.cloud)
+- ☁️ Software Engineer at [Klarna](https://www.klarna.com)
 - 🏛️ Co-Created [Teseo](https://www.teseo.app)
 - 🏎️ Ex Team member at [Squadracorsepolito](https://squadracorsepolito.com)
 - 📫 More about me: [LinkedIn](http://linkedin.com/in/paolo-beci-919a28199)
